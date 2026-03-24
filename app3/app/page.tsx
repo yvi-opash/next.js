@@ -71,11 +71,3 @@ export default function HomePage() {
 
 
 
-
-// App Router
-// 2️⃣ Server Components
-// 3️⃣ Data Fetching Strategies
-// 4️⃣ Pagination (searchParams)
-// 5️⃣ Client Components
-// 6️⃣ Layout System
-// 7️⃣ Clean Folder Architecture
